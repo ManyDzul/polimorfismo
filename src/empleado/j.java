@@ -7,7 +7,7 @@ package empleado;
 
 /**
  *
- * @author Jesus
+ * @author Manuel
  */
 class j<T0, T1> {
     

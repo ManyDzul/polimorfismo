@@ -7,7 +7,7 @@ package empleado;
 
 /**
  *
- * @author Jesus
+ * @author Manuel
  */
 public class pruebaSistemaNomina 
 {
